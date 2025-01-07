@@ -9,8 +9,7 @@ function RightBar() {
       <header className='flex flex-row justify-between '>
         <h1 className='text-[#CCCCCC] text-xl'>Friend Activity</h1>
         <div className='flex flex-row gap-5'>
-            {/* <img className='cursor-pointer' src={union} alt="" /> */}
-            {/* <img className='cursor-pointer' src={exit} alt="" /> */}
+           
             <p className='cursor-pointer '>👤</p>
             <p className='cursor-pointer'>✖️</p>
 
